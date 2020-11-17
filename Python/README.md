@@ -45,6 +45,8 @@ Format: -[Program name](name of the file)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
+-[Search Repeated Elements using a Map](search_repeating_elements.py)
+
 -[Selection Sort](selectionsort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
